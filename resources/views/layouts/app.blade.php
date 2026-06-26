@@ -10,6 +10,7 @@
     <div class="container">
         <a class="navbar-brand" href="/">🖥️ Préstamo de Equipos</a>
         <div>
+            <a href="/" class="btn btn-outline-light btn-sm me-2">Inicio</a>
             <a href="/equipos" class="btn btn-outline-light btn-sm me-2">Equipos</a>
             <a href="/solicitantes" class="btn btn-outline-light btn-sm me-2">Solicitantes</a>
             <a href="/prestamos" class="btn btn-outline-light btn-sm me-2">Préstamos</a>
